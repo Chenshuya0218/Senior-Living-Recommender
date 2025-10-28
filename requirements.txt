@@ -3,4 +3,6 @@ pandas
 numpy
 faster-whisper==1.0.3
 ctranslate2==4.6.0
+onnxruntime==1.19.2
+huggingface-hub
 ffmpeg-python

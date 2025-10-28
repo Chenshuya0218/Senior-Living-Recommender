@@ -1,0 +1,9 @@
+streamlit==1.39.0
+pandas
+numpy
+faster-whisper==1.0.3
+ctranslate2==4.6.1
+onnxruntime==1.16.3
+huggingface-hub
+tokenizers==0.13.3
+ffmpeg-python

@@ -6,7 +6,6 @@
 import os
 os.environ.setdefault("CT2_FORCE_CPU_ISA", "GENERIC")
 
-import os
 from pathlib import Path
 from typing import Dict
 
